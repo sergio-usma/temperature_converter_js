@@ -7,6 +7,10 @@
     <title>Document</title>
 
     <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <header>
@@ -24,7 +28,9 @@
       </div>
       <div class="button_box">
         <button type="button" onclick="convertTemp()">Convert</button>
-        <button type="button" onclick="resetFields()">Clear</button>
+        <button class="remove_btn" type="button" onclick="resetFields()">
+          <i class="bi bi-trash-fill"></i>
+        </button>
       </div>
     </div>
     <footer>
