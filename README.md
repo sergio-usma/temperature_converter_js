@@ -54,7 +54,7 @@ This project was built using the following technologies:
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://sergio-usma.github.io/key_codes_project/)
+- [Live Demo Link](https://sergio-usma.github.io/temperature_converter_js/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
