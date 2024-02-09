@@ -25,7 +25,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Key Codes Project <a name="about-project"></a>
+# 📖 Temperature Converter <a name="about-project"></a>
 
 **Temperature Converter** is a micro-project based on JavaScript DOM manipulation. The project is a simple web page that converts temperature from Celsius to Fahrenheit degrees according to the user's needs.
 
